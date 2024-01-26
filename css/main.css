@@ -2,3 +2,8 @@ body {
   background-color: rgb(70, 70, 70);
   color : #fff
 }
+
+#home {
+  font-size:2em;
+  color: rgba(225, 225, 225, .75);
+}
