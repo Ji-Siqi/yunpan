@@ -1,9 +1,13 @@
 body {
-  background-color: rgb(70, 70, 70);
-  color : #fff
+  background-color: #383B40;
+  color : #ccc
 }
 
 #home {
   font-size:2em;
-  color: rgba(225, 225, 225, .75);
+  color : rgba(175, 175, 175, .75);
+  a:link {color:rgba(225, 225, 225, .75)};
+  a:visited {color:rgba(225, 225, 225, .75)};
+  a:hover {color:rgba(175, 175, 175, .75)};
+  a:active {color:rgba(100, 100, 100, .75)};
 }
